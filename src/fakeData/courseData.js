@@ -1,0 +1,108 @@
+var courseData = [
+    {
+        id: 1,
+        name:"javascript",
+        instructor:"Monir",
+        image:"https://i.ibb.co/m6h2fhZ/javascript-736400-1280.png",
+        price: 3000,
+    },
+    {
+        id: 2,
+        name:"React",
+        instructor:"Md. Jamal",
+        image:"https://i.ibb.co/LJdfn35/Png-Item-6644509.png",
+        price: 2000,
+    },
+    {
+        id: 3,
+        name:"Python",
+        instructor:"Rahim",
+        image:"https://i.ibb.co/p4bd96F/pythonjpg.jpg",
+        price: 3500,
+    },
+    {
+        id: 4,
+        name:"Spoken English",
+        instructor:"Md. Jamal",
+        image:"https://i.ibb.co/D5V7BqH/learning-spoken-english.png",
+        price: 2500,
+    },
+    {
+        id: 5,
+        name:"php",
+        instructor:"Saimon",
+        image:"https://i.ibb.co/8cd7VdN/images.jpg",
+        price: 2700,
+    },
+    {
+        id: 6,
+        name:"HTML5/CSS3",
+        instructor:"Jamsed Alam",
+        image:"https://i.ibb.co/6gRj7yr/learn-html5-css3-full-course.jpg",
+        price: 1000,
+    },
+    {
+        id: 7,
+        name:"redux",
+        instructor:"William Harries",
+        image:"https://i.ibb.co/3CQ5QQh/redux.jpg",
+        price: 1500,
+    },
+    {
+        id: 8,
+        name:"Node Js",
+        instructor:"Rasel Arnold",
+        image:"https://i.ibb.co/PW9c1J1/1200px-Node-js-logo-svg.png",
+        price: 1800,
+    },
+    {
+        id: 9,
+        name:"C++",
+        instructor:"Sakib",
+        image:"https://i.ibb.co/86y3DMx/large.jpg",
+        price: 5000,
+    },
+    {
+        id: 10,
+        name:"Java",
+        instructor:"Alex Harris",
+        image:"https://i.ibb.co/gysjfb7/Java-Debugging-Tips-1280x720.jpg",
+        price: 5500,
+    }, {
+        id: 11,
+        name:"Swift",
+        instructor:"Stephen Grider",
+        image:"https://i.ibb.co/K56Tc26/9d94a53738b84d6c0e5ab094bcfe2af1.png",
+        price:6000,
+    },
+    {
+        id: 12,
+        name:"SQL",
+        instructor:"Brad Schiff",
+        image:"https://i.ibb.co/5xYZkTS/256-2563210-sql-programming-language-logo-hd-png-download.png",
+        price: 4000,
+    },
+    {
+        id: 13,
+        name:"Django",
+        instructor:"Charlie",
+        image:"https://i.ibb.co/HhfYpJS/maxresdefault.jpg",
+        price: 2600,
+    },
+    {
+        id: 14,
+        name:"VUE",
+        instructor:"John Smilga",
+        image:"https://i.ibb.co/w71LHBn/maxresdefault-1.jpg",
+        price: 2500,
+    },
+    {
+        id: 15,
+        name:"Angular",
+        instructor:" Denny",
+        image:"https://i.ibb.co/WFfRbkg/images-1.jpg",
+        price: 3500,
+    }
+]
+
+export default courseData;
